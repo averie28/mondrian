@@ -1,11 +1,11 @@
 .container{
-    background-color: rgb(210, 178, 237);
+    background-color: rgb(206, 187, 247);
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 20px;
 }
 .item{
-    background-color: rgb(107, 82, 247);
+    background-color: rgb(143, 126, 241);
     color:rgb(234, 215, 251);
     font-size: 20px;
     padding:10px;
