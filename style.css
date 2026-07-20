@@ -10,7 +10,7 @@
     padding:10px;
 }
 .item4{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(246, 196, 196);
     padding:10px;
 }
 .item3{
@@ -32,4 +32,11 @@
     grid-row-end: 4;
     grid-column-start: 3;
     grid-column-end: 4;
+}
+.item8 {
+    background-color: rgb(132, 176, 241);
+    grid-row-start: 1;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 2;
 }
