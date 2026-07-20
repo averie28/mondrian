@@ -52,3 +52,13 @@
     grid-column-start: 3;
     grid-column-end:4;
 }
+.item10 {
+    background-color:white;
+    grid-row-start:1;
+    grid-row-end: 3;
+}
+.item5 {
+    background-color: white;
+    grid-column-start:1;
+    grid-column-end: 3;
+}
