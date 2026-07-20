@@ -6,13 +6,13 @@
     height:650px;
 }
 .item{
-    background-color: rgb(143, 126, 241);
+    background-color: rgb(164, 150, 242);
     color:rgb(234, 215, 251);
     font-size: 20px;
     padding:10px;
     text-align: center;
 }
-.item 1{
+.item1{
     grid-column-start: 1;
     grid-column-end: 3;
 }
