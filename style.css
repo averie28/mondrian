@@ -12,6 +12,8 @@
 .item4{
     background-color: rgb(246, 196, 196);
     padding:10px;
+    grid-column-start:1;
+    grid-column-end:2;
 }
 .item3{
     background-color:rgb(241, 241, 158);
