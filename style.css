@@ -2,6 +2,7 @@
     background-color: rgb(0, 0, 0);
     display: grid;
     grid-template-columns: auto 250px auto 120px;
+    grid-template-rows: auto 100px 270px auto;
     grid-gap: 20px;
     height:500px;
 }
