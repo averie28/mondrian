@@ -65,3 +65,10 @@
     grid-column-start:1;
     grid-column-end: 3;
 }
+.item7 {
+    background-color: rgb(255, 255, 255);
+    grid-column-start:2;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
