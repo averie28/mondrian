@@ -17,7 +17,7 @@
     grid-column-end:2;
 }
 .item3{
-    background-color:rgb(241, 241, 158);
+    background-color:rgb(255, 255, 254);
     grid-row-start: 1;
     grid-row-end: 3;
     grid-column-start: 2;
