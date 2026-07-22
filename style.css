@@ -30,6 +30,8 @@
     background-color: rgb(124, 124, 241);
     grid-column-start: 1;
     grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
 }
 .item6 {
     background-color: rgb(238, 228, 170);
