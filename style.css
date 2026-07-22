@@ -18,6 +18,7 @@ body {
     background: #f7efe5;
     border: 12px solid #161616;
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    position: relative;
 }
 
 .container > div {
@@ -63,9 +64,10 @@ body {
 }
 
 .item6 {
-    background: #a8d8b3;
+    background: #f3b8c8;
     grid-column: 4 / 5;
     grid-row: 2 / 4;
+    z-index: 2;
 }
 
 .item7 {
@@ -99,7 +101,9 @@ body {
 }
 
 .item12 {
-    background: #a8d8b3;
+    background: #fffdf8;
     grid-column: 1 / 2;
     grid-row: 4 / 5;
+    transform: translate(-12px, 12px);
+    z-index: 3;
 }
